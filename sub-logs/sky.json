@@ -1,0 +1,17 @@
+{
+  "repo": "https://github.com/SkyOMC/skyomc.github.io",
+
+  "owner": {
+    "username": "SkyOMC",
+    "email": "efececgaming@gmail.com"
+  },
+
+  "target": {
+    "CNAME": {
+       "name": "sky", 
+       "value": "skyomc.github.io"
+     }
+  },
+
+  "proxied": false
+}
